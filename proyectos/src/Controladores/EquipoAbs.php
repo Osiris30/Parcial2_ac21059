@@ -1,5 +1,5 @@
 <?php
-namespace App\contracts;
+namespace App\Controladores;
 
 
 abstract class Equipo
